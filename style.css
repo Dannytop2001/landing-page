@@ -49,7 +49,7 @@ nav a {
     color: #fff;
     text-decoration: none;
     cursor: pointer;
-    transition: all 0.7s;
+    transition: all 0.5s;
     
  
 }
@@ -57,4 +57,3 @@ nav a {
 nav a:hover {
    color: #fff000;
 }
-
